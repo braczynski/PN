@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "cw0", "cw0\cw0.asmproj", "{BF702D2D-A453-4277-A8EC-3A0E57A70508}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "cw1", "cw1\cw1.asmproj", "{ABF6AE00-28A7-4623-81EC-198E06082F8C}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "cw2", "cw2\cw2.asmproj", "{BA4895E2-9DB3-4726-943B-DBA11F6FA919}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "cw3", "cw3\cw3.asmproj", "{8EE95BF4-F777-44F9-A369-B3946AE9443A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF702D2D-A453-4277-A8EC-3A0E57A70508}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BF702D2D-A453-4277-A8EC-3A0E57A70508}.Debug|AVR.Build.0 = Debug|AVR
+		{BF702D2D-A453-4277-A8EC-3A0E57A70508}.Release|AVR.ActiveCfg = Release|AVR
+		{BF702D2D-A453-4277-A8EC-3A0E57A70508}.Release|AVR.Build.0 = Release|AVR
+		{ABF6AE00-28A7-4623-81EC-198E06082F8C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{ABF6AE00-28A7-4623-81EC-198E06082F8C}.Debug|AVR.Build.0 = Debug|AVR
+		{ABF6AE00-28A7-4623-81EC-198E06082F8C}.Release|AVR.ActiveCfg = Release|AVR
+		{ABF6AE00-28A7-4623-81EC-198E06082F8C}.Release|AVR.Build.0 = Release|AVR
+		{BA4895E2-9DB3-4726-943B-DBA11F6FA919}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BA4895E2-9DB3-4726-943B-DBA11F6FA919}.Debug|AVR.Build.0 = Debug|AVR
+		{BA4895E2-9DB3-4726-943B-DBA11F6FA919}.Release|AVR.ActiveCfg = Release|AVR
+		{BA4895E2-9DB3-4726-943B-DBA11F6FA919}.Release|AVR.Build.0 = Release|AVR
+		{8EE95BF4-F777-44F9-A369-B3946AE9443A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8EE95BF4-F777-44F9-A369-B3946AE9443A}.Debug|AVR.Build.0 = Debug|AVR
+		{8EE95BF4-F777-44F9-A369-B3946AE9443A}.Release|AVR.ActiveCfg = Release|AVR
+		{8EE95BF4-F777-44F9-A369-B3946AE9443A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
